@@ -1,4 +1,4 @@
-package grades.moghies.com.gradetracker;
+package com.moghies.gradetracker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
